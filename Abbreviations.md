@@ -17,7 +17,8 @@
   <li>SRS : Software Requirements Specifications</li>
   <li>BRS : Business Requirements Specifications</li>
   <li>FRD : Functional Requirements Specifications</li>
-
+  <li>HLD : High Level Design</li>
+  <li>LLD : Low Level Design</li>
 </ul>
   
 </div>
